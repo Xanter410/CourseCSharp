@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace Homework_5
+namespace Homework_5_Task_1
 {
     internal class Program
     {
